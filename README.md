@@ -1,2 +1,5 @@
 # AA_MCD
-Aprendizaje Automático
+# Universidad Autónoma de Nuevo León
+## Maestría en Ciencia de Datos
+
+*** Aprendizaje Automático ***
